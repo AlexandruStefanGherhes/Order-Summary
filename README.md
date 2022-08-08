@@ -34,7 +34,7 @@ Mobile version
 ### Links
 
 - Solution URL: [Code on GitHub](https://github.com/Baroush/FrontEndMentor.git)
-- Live Site URL: [GitHub Pages Live URL](https://alexandrustefangherhes.github.io/Stats-Preview-Project/)
+- Live Site URL: [GitHub Pages Live URL](https://alexandrustefangherhes.github.io/Order-Summary/)
 
 ## My process
 
