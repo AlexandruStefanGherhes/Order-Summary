@@ -7,6 +7,10 @@
 }
 
 body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
   font-family: "Red hat display", sans-serif;
   background-color: hsl(225, 100%, 94%);
   background-image: url("/images/pattern-background-desktop.svg");
@@ -18,8 +22,6 @@ body {
   height: 570px;
   max-width: 330px;
   background-color: white;
-  margin: 0px auto;
-  margin-top: 10%;
   margin-bottom: 10%;
   border-radius: 15px;
 }
@@ -66,6 +68,7 @@ body {
   margin-top: 5px;
   line-height: 1.6;
   max-width: 130px;
+  word-wrap: break-word;
 }
 
 span {
